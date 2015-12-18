@@ -5,8 +5,8 @@ The best jQuery plugin ever.
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/samples-of-arukoh/jquery.sample/master/dist/sample.min.js
-[max]: https://raw.github.com/samples-of-arukoh/jquery.sample/master/dist/sample.js
+[min]: https://raw.githubusercontent.com/samples-of-arukoh/jquery.sample/master/dist/jquery.sample.min.js
+[max]: https://raw.githubusercontent.com/samples-of-arukoh/jquery.sample/master/dist/jquery.sample.js
 
 In your web page:
 
